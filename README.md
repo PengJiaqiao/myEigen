@@ -1,2 +1,3 @@
 # myEigen
-A Lightweight C++ Tensor Computing Library.
+2019年我在德国联邦物理技术研究院打工的时候造的轮子。为了做3D磁共振成像的GPU加速，用C++和CUDA重写了很多算法，这里是整理出来的部分通用代码。    
+待完善。
